@@ -62,7 +62,7 @@ Once the repository is created, you can add teams to manage access:
 ## Notes
 
 - Always ensure you assign proper permissions to protect sensitive information.
-- For further assistance, contact **@admin** (the administration team) or consult the [GitHub Documentation](https://docs.github.com/).
+- For further assistance, contact [**@admin**](https://github.com/orgs/Selecsys-Lab/teams/admin) (the administration team) or consult the [GitHub Documentation](https://docs.github.com/).
 
 ---
 
