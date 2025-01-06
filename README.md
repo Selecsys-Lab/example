@@ -32,7 +32,7 @@ Follow these steps to create a new repository in the organization:
         - A `README` file.
         - A `.gitignore` template.
         - A license of your choice.  
-    [Image 2](/images/screenshot-2.png)
+    ![Image 2](/images/screenshot-2.png)
 
 3. **Create the Repository**:
     - Click **`Create repository`** to finalize the setup.
