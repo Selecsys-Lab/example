@@ -62,7 +62,7 @@ Once the repository is created, you can add teams to manage access:
 ## Notes
 
 - Always ensure you assign proper permissions to protect sensitive information.
-- For further assistance, contact the organization administrator or consult the [GitHub Documentation](https://docs.github.com/).
+- For further assistance, contact @admin or consult the [GitHub Documentation](https://docs.github.com/).
 
 ---
 
